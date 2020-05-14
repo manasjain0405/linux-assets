@@ -1,0 +1,11 @@
+[/]
+background-color='rgb(46,52,54)'
+background-transparency-percent=6
+bold-is-bright=true
+font='Hack Nerd Font 12'
+foreground-color='rgb(211,215,207)'
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='MJ Terminal Profile'
