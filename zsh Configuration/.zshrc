@@ -46,5 +46,5 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 source $HOME/.zsh/plugins/zsh-syntax-highlighter/zsh-syntax-highlighting.zsh
 
 ## Show System Details ##
-neofetch
+$HOME/.zsh/scripts/pfetch.sh
 
