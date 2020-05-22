@@ -45,6 +45,10 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 ## Enable Syntax Highlights ##
 source $HOME/.zsh/plugins/zsh-syntax-highlighter/zsh-syntax-highlighting.zsh
 
+
+##Load Alias##
+source $HOME/.zsh/zsh-aliases.zsh
+
 ## Show System Details ##
 $HOME/.zsh/scripts/pfetch.sh
 
