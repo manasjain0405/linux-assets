@@ -1,0 +1,7 @@
+List of gnome extensions:
+1) GSConnect: https://extensions.gnome.org/extension/1319/gsconnect/
+2) Walkpaper: https://extensions.gnome.org/extension/1200/walkpaper/
+3) User Themes: https://extensions.gnome.org/extension/19/user-themes/
+4) Smart Transparent Topbar: https://extensions.gnome.org/extension/2588/fully-transparent-top-bar/
+5) Transparent Window Moving: https://extensions.gnome.org/extension/1446/transparent-window-moving/
+6) Extension Update Notifier: https://extensions.gnome.org/extension/1166/extension-update-notifier/
